@@ -1,4 +1,4 @@
-# This is a Python script regarding to read csv file.
+# This is a Python script to read csv file.
 import pandas as pd
 import os.path
 
